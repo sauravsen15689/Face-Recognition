@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\satchisago\Downloads\Compressed\FaceRecognition.zip"/>
+		<item value="C:\Users\satchisago\eclipse-workspace\facerecognition"/>
+		<item value="C:\Users\satchisago\Downloads\facerecognition"/>
+		<item value="D:\ubuntu_backup\workspace\tst"/>
+		<item value="D:\ubuntu_backup\workspace\democv"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>

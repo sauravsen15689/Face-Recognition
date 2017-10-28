@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;facerecoginition&apos;&#x0D;&#x0A;- Original project: &apos;facerecoginition&apos;&#x0D;&#x0A;- Original element: &apos;facerecoginition/src/facerecoginition.utils&apos;" description="Delete element" element1="/src&lt;facerecoginition.utils" element2="/src&lt;facerecoginition" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1505279493628" subPackages="false" version="1.0"/>
+</session>

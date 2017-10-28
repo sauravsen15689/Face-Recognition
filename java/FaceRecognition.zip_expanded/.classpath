@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Face Recognition/Colt PCA"/>
+	<classpathentry kind="src" path="Face Recognition/GUI Face Recognizer"/>
+	<classpathentry kind="src" path="Face Recognition/JavaFaces2"/>
+	<classpathentry kind="lib" path="C:/Users/satchisago/eclipse-workspace/facerecoginition/src/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/javacpp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
